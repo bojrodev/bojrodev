@@ -10,18 +10,11 @@ I am an **AI Developer** focused on bringing heavy compute models to accessible 
 
 ### 🛠 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Frameworks & Mobile**
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logo=github&logoColor=white)
-
-**Environment**
-![Linux](https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Frameworks** | ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logo=github&logoColor=white) |
+| **Environment** | ![Linux](https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
@@ -29,9 +22,9 @@ I am an **AI Developer** focused on bringing heavy compute models to accessible 
 
 | Project | Class | Status |
 | :--- | :--- | :--- |
-| **Resolver-WebUI-Client** | `Android/Native` | 🟢 **Active** <br> Native Android client for Stable Diffusion WebUI Forge. |
+| **Resolver-WebUI-Client** | `Android/Native` | 🟢 **Building** <br> Native Android client for Stable Diffusion WebUI Forge. |
 | **Image Model Training** | `Vision/LoRA` | 🟡 **Training** <br> Custom adapters for SDXL, Flux, and Zimage Turbo. |
-| **LLM Fine-tuning** | `Text/GGUF` | 🔵 **Optimized** <br> Training & merging Llama-based models on local hardware. |
+| **LLM Fine-tuning** | `Text/GGUF` | 🔵 **Optimizing** <br> Training & merging Llama-based models on local hardware. |
 
 ---
 
