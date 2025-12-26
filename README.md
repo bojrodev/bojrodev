@@ -1,6 +1,8 @@
 # Hi, I'm Bojro Dev.
 
-> **Building the intersection of Native Mobile & Generative AI.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=25F712&background=00000000&center=false&vCenter=false&width=800&lines=Building+the+intersection+of+Native+Mobile+%26+Generative+AI.;Bringing+heavy+compute+models+to+accessible+interfaces.;Training+LoRAs+%7C+Fine-tuning+LLMs+%7C+Native+Clients" alt="Typing SVG" />
+</a>
 
 I am an **AI Developer** focused on bringing heavy compute models to accessible interfaces. My work revolves around fine-tuning large language models, training custom image generation adapters (LoRAs), and creating optimized mobile clients.
 
