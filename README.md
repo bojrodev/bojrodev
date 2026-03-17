@@ -43,4 +43,7 @@ I build software for the sake of building it.
   <a href="https://huggingface.co/bojrodev">
     <img src="https://img.shields.io/badge/HUGGING_FACE-Models-FF7F00?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
+  <a href="https://bojrodev.com/donate">
+    <img src="https://img.shields.io/badge/SUPPORT-Donate-00C853?style=for-the-badge&logo=tether&logoColor=white"/>
+  </a>
 </div>
