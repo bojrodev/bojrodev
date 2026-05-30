@@ -8,7 +8,7 @@ I am an **AI Developer** focused on bringing heavy compute models to accessible 
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 | Category | Stack |
 | :--- | :--- |
@@ -18,7 +18,7 @@ I am an **AI Developer** focused on bringing heavy compute models to accessible 
 
 ---
 
-### 🔭 Current Focus
+### 🔭l Current Focus
 
 | Project | Class | Status |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ I am an **AI Developer** focused on bringing heavy compute models to accessible 
 
 ---
 
-### ⚡ Philosophy
+###  Philosophy
 
 I build software for the sake of building it.
 * I contribute to open source on my own schedule.
