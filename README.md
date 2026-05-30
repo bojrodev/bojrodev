@@ -18,7 +18,7 @@ I am an **AI Developer** focused on bringing heavy compute models to accessible 
 
 ---
 
-### 🔭l Current Focus
+###  Current Focus
 
 | Project | Class | Status |
 | :--- | :--- | :--- |
