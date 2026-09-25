@@ -22,6 +22,6 @@ I write software, fine-tune models, and build mobile frontends for local AI tool
 
 ### Find me around
 
-[Website](https://bojrodev.com) • [Hugging Face](https://huggingface.co/bojrodev) • [Support / Donate](https://bojrodev.com/donate)
+[Hugging Face](https://huggingface.co/bojrodev)
 
 > **Note:** I maintain these projects in my free time and am not taking on freelance work, commissions, or outside collaborations.
