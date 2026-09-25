@@ -1,4 +1,4 @@
-# Hi, I'm Ishrak Adnan Omi (Bojrodev).
+# Hi, I'm Bojro.
 
 I write software, fine-tune models, and build mobile frontends for local AI tools. Most of my work centers around running open-source models on consumer hardware and creating mobile interfaces to interact with them.
 
@@ -22,6 +22,6 @@ I write software, fine-tune models, and build mobile frontends for local AI tool
 
 ### Find me around
 
-[Hugging Face](https://huggingface.co/bojrodev)
+[Website](https://bojrodev.github.io/Portfolio/) • [Hugging Face](https://huggingface.co/bojrodev) • [Support / Donate](https://bojrodev.github.io/Portfolio/donate.html)
 
 > **Note:** I maintain these projects in my free time and am not taking on freelance work, commissions, or outside collaborations.
