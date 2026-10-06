@@ -1,4 +1,4 @@
-# Hi, I'm Ishrak Adnan Omi. I also go by the name BojroDev.
+# Hi, I'm Ishrak Adnan Omi. I also go by the alias BojroDev.
 
 I write software, fine-tune models, and build mobile frontends for local AI tools. Most of my work centers around running open-source models on consumer hardware and creating mobile interfaces to interact with them.
 
