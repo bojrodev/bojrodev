@@ -1,4 +1,4 @@
-# Hi, I'm Bojro.
+# Hi, I'm Ishrak Adnan Omi aka Bojrodev.
 
 I write software, fine-tune models, and build mobile frontends for local AI tools. Most of my work centers around running open-source models on consumer hardware and creating mobile interfaces to interact with them.
 
